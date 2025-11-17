@@ -35,7 +35,7 @@
             #doge {
                 border: 5px solid #26F;
                 position: relative;
-                background: url('/img/dogebg.jpg');
+                background: url('img/dogebg.jpg');
                 background-size: 100%;
                 background-position: top left;
                 width: 450px;
@@ -54,7 +54,7 @@
                 position: absolute;
                 width: 220px;
                 height: 220px;
-                background: url("/img/hand.gif");
+                background: url("img/hand.gif");
                 background-position: top left;
                 pointer-events: none;
             }
